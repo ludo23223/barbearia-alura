@@ -1,12 +1,23 @@
 body {
-    background: #ff0000
+    background: #CCCCCC
+}
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center
 }
 
 p {
     text-align: center;
 }
 
-em strong {
-    color: #1f0c74;
+#missao {
+    font-size: 20px
 }
 
+em strong {
+    color: #FF0000;
+}
